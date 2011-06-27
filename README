@@ -1,0 +1,12 @@
+FanThrottleSMC
+
+Throttles the maximum fan speeds in your Macbook. 
+Wrote this little piece due to a defective thermal sensor in my macbook. Its only purpose is to prevent my fans from torturing my nerves.
+
+BE CAREFUL!
+Setting the maximum speed of your fans to a value too low while doing hard work on your CPUs could result in a overheated, throttling and unusable machine. Maybe it'll even break. 
+
+
+In order to run this application you need to install smcFanControl (http://www.eidac.de/?p=134) in your /Applications/-Folder.
+
+© Johannes Heck / http://crap.to
